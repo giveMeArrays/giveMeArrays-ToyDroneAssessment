@@ -6,8 +6,9 @@ Email : ateeshdanpak@gmail.com
 LinkedIn : https://www.linkedin.com/in/ateesh-dhanpal-60564a192/
 
 ## Notes to assessor
-Make sure you have an internet connection when using the project.
-The code has not been refactored yet 
+Make sure you have an internet connection when viewing the project.
+The code has not been refactored yet
+hosted game: https://givemearrays.github.io/giveMeArrays-ToyDroneAssessment/
 
 
 ## AUTOMATION TESTING

@@ -1,19 +1,9 @@
 # giveMeArrays-ToyDroneAssessment
 
+## Make sure you have an internet connection when using project
 
 
-
-
-
-
-
-
-
-
-
-
-
-AUTOMATION TESTING
+## AUTOMATION TESTING
 
 //I have minimal experience with test //automation however I have tried to answer //to the best of my ability.
 

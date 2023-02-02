@@ -1,11 +1,13 @@
 # giveMeArrays-ToyDroneAssessment
 
-## Make sure you have an internet connection when using project
+## Notes to assessor
+Make sure you have an internet connection when using the project.
+The code has not been refactored yet 
 
 
 ## AUTOMATION TESTING
 
-//I have minimal experience with test //automation however I have tried to answer //to the best of my ability.
+//I have minimal experience with test automation however I have tried to answer to the best of my ability.
 
 Since my project is web based I would consider some kind of web automation tool such as selenium, however I could also use jest to test my JavaScript code.
 
